@@ -1,3 +1,8 @@
+# Ignore IDX project files
+.idx/
+*.idx
+.idxconfig
+
 # Ignore virtual environment folders
 venv/
 env/
