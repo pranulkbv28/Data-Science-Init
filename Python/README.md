@@ -60,7 +60,7 @@
         - install `Jupyter Lab` inside the `virtual environment`
 
             ```bash
-            pip install jupyterla 
+            pip install jupyterlab
             ```
 
         - run `Jupyter Lab`
